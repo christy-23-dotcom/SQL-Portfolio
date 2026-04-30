@@ -42,8 +42,7 @@ Key steps included:
 | Coinbase  | USA      | Crypto   | 200            | 15%                 | 2022-11-01 | United States |
 | Infosys   | India    | IT       | 300            | 5%                  | 2023-01-20 | India         |
 
-
 ## 📂 Project Files
-
-- [Cleaned Dataset (CSV)](data/layoffs_cleaned.csv)  
-- [SQL Cleaning Script](scripts/layoff_cleaning.sql)
+- [Raw Dataset (CSV)](layoffs.csv)  
+- [Cleaned Dataset (CSV)](layoffs_cleaned.csv)  
+- [SQL Cleaning Script](layoffs_cleaning.sql)
